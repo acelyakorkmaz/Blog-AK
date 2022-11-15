@@ -108,6 +108,7 @@
     <Content Include="portfolyo-images\pexels-lukas-574073.jpg" />
     <Content Include="portfolyo-images\zng.PNG" />
     <Content Include="css\style.css" />
+    <Content Include="portfolyo-images\zng1.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
